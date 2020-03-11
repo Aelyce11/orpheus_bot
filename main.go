@@ -21,7 +21,7 @@ var (
 func main() {
 
 	// Start bot
-	bot := generateBot("NTY4NDQxODI5MDg3OTAzNzQ3.XLiOwQ.OT7bKgpZbgZj7smFDz0f2G_b9lA")
+	bot := generateBot("TOKEN")
 
 	// Add handlers
 	fmt.Println("Registering handlers .. ")
